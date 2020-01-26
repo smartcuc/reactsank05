@@ -5,6 +5,7 @@ import * as d3 from 'd3';
 //import "./styles.css";
 import MySankey from './MySankey';
 
+// https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/sankey_energy_dark.json
 //import logo from './logo.svg';
 import './App.css';
 
