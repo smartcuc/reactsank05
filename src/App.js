@@ -5,7 +5,7 @@ import * as d3 from 'd3';
 //import "./styles.css";
 import MySankey from './MySankey';
 
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 
 class App extends React.Component {
